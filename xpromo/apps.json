@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.09.1",
+  "version": "2026.11.09.2",
   "developer": "HuanHuynh",
   "apps": [
     {
@@ -117,6 +117,20 @@
       "groups": [
         "spiritual",
         "daily"
+      ],
+      "priority": 85,
+      "enabled": false,
+      "note": "Bật khi app đã lên Google Play"
+    },
+    {
+      "id": "com.huanhuynh.xinxam",
+      "name": "Xin Xăm – Gieo Quẻ",
+      "tagline": "Xin xăm Quan Âm, Quan Thánh và gieo quẻ Kinh Dịch",
+      "emoji": "🎋",
+      "icon": "https://thanhhuan1990.github.io/xpromo/icons/com.huanhuynh.xinxam.png",
+      "groups": [
+        "spiritual",
+        "fun"
       ],
       "priority": 85,
       "enabled": false,
