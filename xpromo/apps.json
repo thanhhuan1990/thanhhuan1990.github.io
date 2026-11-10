@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.09.2",
+  "version": "2026.11.10.1",
   "developer": "HuanHuynh",
   "apps": [
     {
@@ -91,8 +91,7 @@
         "health"
       ],
       "priority": 70,
-      "enabled": false,
-      "note": "Bật khi app đã lên Google Play"
+      "enabled": true
     },
     {
       "id": "com.huanhuynh.freshnest",
@@ -105,8 +104,7 @@
         "health"
       ],
       "priority": 70,
-      "enabled": false,
-      "note": "Bật khi app đã lên Google Play"
+      "enabled": true
     },
     {
       "id": "com.huanhuynh.vankhan",
@@ -119,8 +117,7 @@
         "daily"
       ],
       "priority": 85,
-      "enabled": false,
-      "note": "Bật khi app đã lên Google Play"
+      "enabled": true
     },
     {
       "id": "com.huanhuynh.xinxam",
@@ -133,8 +130,7 @@
         "fun"
       ],
       "priority": 85,
-      "enabled": false,
-      "note": "Bật khi app đã lên Google Play"
+      "enabled": true
     }
   ]
 }
