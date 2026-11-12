@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.11.1",
+  "version": "2026.11.13.1",
   "developer": "HuanHuynh",
   "apps": [
     {
@@ -323,6 +323,114 @@
         "ja": {
           "name": "Cờ Vây Có Thầy",
           "tagline": "コンピュータと囲碁対局、一手ごとに先生が解説"
+        }
+      }
+    },
+    {
+      "id": "com.huanhuynh.covua",
+      "name": "Cờ Vua Có Thầy",
+      "tagline": "Chơi cờ vua với máy, thầy chấm và giải thích từng nước",
+      "emoji": "♞",
+      "icon": "https://thanhhuan1990.github.io/xpromo/icons/com.huanhuynh.covua.png",
+      "groups": [
+        "games",
+        "fun"
+      ],
+      "priority": 75,
+      "enabled": false,
+      "i18n": {
+        "en": {
+          "name": "Chess Coach",
+          "tagline": "Play chess vs the computer – every move graded and explained"
+        },
+        "zh": {
+          "name": "国际象棋老师",
+          "tagline": "与电脑下国际象棋，老师逐步点评讲解"
+        },
+        "ja": {
+          "name": "チェス先生",
+          "tagline": "コンピュータとチェス対局、一手ごとに先生が解説"
+        }
+      }
+    },
+    {
+      "id": "com.huanhuynh.cotyphu",
+      "name": "Cờ Tỷ Phú",
+      "tagline": "Lắc xí ngầu, mua đất, xây khách sạn – đấu 3 máy, chơi offline",
+      "emoji": "🎲",
+      "icon": "https://thanhhuan1990.github.io/xpromo/icons/com.huanhuynh.cotyphu.png",
+      "groups": [
+        "games",
+        "fun"
+      ],
+      "priority": 75,
+      "enabled": false,
+      "i18n": {
+        "en": {
+          "name": "Tycoon Dice",
+          "tagline": "Roll, buy cities, build hotels – beat 3 bots offline"
+        },
+        "zh": {
+          "name": "富翁棋",
+          "tagline": "掷骰子、买地、盖酒店，离线对战3个电脑"
+        },
+        "ja": {
+          "name": "タイクーン・ダイス",
+          "tagline": "サイコロを振って土地を買い、ホテルを建てる – オフラインでCPU3人と対戦"
+        }
+      }
+    },
+    {
+      "id": "com.huanhuynh.xepgach",
+      "name": "Xếp Gạch 9999",
+      "tagline": "Game xếp gạch như máy cầm tay năm 2000",
+      "emoji": "🧱",
+      "icon": "https://thanhhuan1990.github.io/xpromo/icons/com.huanhuynh.xepgach.png",
+      "groups": [
+        "games",
+        "fun"
+      ],
+      "priority": 70,
+      "enabled": false,
+      "i18n": {
+        "en": {
+          "name": "Brick Game 9999",
+          "tagline": "The brick game from the 2000s handheld – big buttons, beeps"
+        },
+        "zh": {
+          "name": "经典砖块 9999",
+          "tagline": "重温 2000 年代掌机上的砖块游戏"
+        },
+        "ja": {
+          "name": "ブロックゲーム 9999",
+          "tagline": "2000年代の携帯ゲーム機のブロック落としを再現"
+        }
+      }
+    },
+    {
+      "id": "com.huanhuynh.tudien",
+      "name": "Từ Điển Anh Việt",
+      "tagline": "Tra từ offline, widget gợi ý từ mới mỗi 2 giờ kèm ví dụ",
+      "emoji": "📖",
+      "icon": "https://thanhhuan1990.github.io/xpromo/icons/com.huanhuynh.tudien.png",
+      "groups": [
+        "education",
+        "daily"
+      ],
+      "priority": 80,
+      "enabled": false,
+      "i18n": {
+        "en": {
+          "name": "English–Vietnamese Dictionary",
+          "tagline": "Offline dictionary with a vocabulary widget every 2 hours"
+        },
+        "zh": {
+          "name": "英越词典",
+          "tagline": "离线查词，每2小时在桌面小组件学一个新单词"
+        },
+        "ja": {
+          "name": "英越辞書",
+          "tagline": "オフライン辞書、2時間ごとに新しい単語をウィジェットで"
         }
       }
     }
